@@ -1,9 +1,17 @@
 #!/bin/bash
-# To encrypt a new file use "gpg -c FILE_NAME"
-
-# Simple Password manager 
-# AIM : to mkae a simple and portable password manager powered by 
-# gpg and cloud supprot provided 3by bitbucket 
+# Project-"Simple Password manager"
+# AIM : to make a simple and portable password manager powered by 
+# gpg and cloud supprot provided by git/bitbucket repos
+# 
+#  Create and store user details in a config File
+#  
+#   detect changes in file if the user modifies it and then automate the git commit / push process and handle exceptions
+#
+#
+#
+#
+#
+#
 
 
 echo "Welcome to password manager version 1.0"
